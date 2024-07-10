@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hello World! 👋🏻
+This is just a little information about Me.
 
-<!--
-**burningxbeard/burningxbeard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Current Projects <br/>
+💻 [chrisbraid.dev](https://www.chrisbraid.dev) - I'm currently building my own personal portfolio website (WIP).
 
-Here are some ideas to get you started:
+## Mindset
+🧠 Stay Curious and Continue Learning <br/>
+💡 Invent and Simplify <br/>
+🤝 Teamwork & Communication :hands
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hobbies
+🎳 Bowling <br/>
+🦸 Comic Collecting </br>
+🎸 Musician </br>
+🔥 Grill Master
+
+## Connect with Me
+- [Portfolio](https://www.chrisbraid.dev/) <br/>
+- [Linkedin](https://www.linkedin.com/in/chrisbraid1/) <br/>
+- [Twitter](https://twitter.com/burningxbeard) <br/>
