@@ -7,7 +7,7 @@ This is just a little information about Me.
 ## Mindset
 🧠 Stay Curious and Continue Learning <br/>
 💡 Invent and Simplify <br/>
-🤝 Teamwork & Communication :hands:
+🤝 Teamwork & Communication 💬
 
 ## Hobbies
 🎳 Bowling <br/>
